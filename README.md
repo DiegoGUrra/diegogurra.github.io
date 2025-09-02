@@ -1,7 +1,3 @@
----
-layout: default
-title: Diego González
----
 # 👋 Hola, soy Diego González
 
 **Ingeniero Civil Informático | Seguridad y Desarrollo de Software**
