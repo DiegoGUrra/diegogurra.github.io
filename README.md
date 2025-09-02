@@ -1,13 +1,13 @@
-# Diego González
-
-**Ingeniero Civil Informático | Seguridad y Desarrollo de Software**  
-
 ---
+layout: default
+title: Diego González
+---
+# 👋 Hola, soy Diego González
 
-## Sobre mí
+**Ingeniero Civil Informático | Seguridad y Desarrollo de Software**
 
-¡Hola! Bienvenido a mi portafolio. Soy un apasionado de la tecnología y la seguridad informática, enfocado en desarrollo de software, ciberseguridad y administración de sistemas. Me gradué de **Ingeniería Civil Informática en la Universidad Católica del Maule**, y cuento con certificaciones en **Backend y JavaScript de FreeCodeCamp**, además de cursos de ciberseguridad de **Google y Hack The Box**.  
-
+Graduado de **Ingeniería Civil Informática en la Universidad Católica del Maule 2024**.  
+Apasionado por desarrollo de software y ciberseguridad.
 
 ---
 ## Educación
@@ -16,7 +16,7 @@
   Ingeniería Civil Informática  
 ---
 
-## Experiencia
+## 💼 Experiencia
 
 ### Haulmer – Desarrollador equipo Documentos Electrónicos  
 *Curicó, Chile | Enero 2024 – Marzo 2024 (Práctica profesional)*  
@@ -28,13 +28,13 @@
 
 ---
 
-## Proyectos
+## 🚀 Proyectos
 
 
 
 ---
 
-## Contacto
+## 📫 Contacto
 
 - **Email:** diegonurr@hotmail.com  
 - **LinkedIn:** [linkedin.com/in/diegonurr](https://www.linkedin.com/in/diegonurr/)  
