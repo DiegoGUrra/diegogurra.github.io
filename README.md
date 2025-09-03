@@ -1,38 +1,38 @@
-# sv
+# 👋 Hola, soy Diego González
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+**Ingeniero Civil Informático | Seguridad y Desarrollo de Software**
 
-## Creating a project
+Graduado de **Ingeniería Civil Informática en la Universidad Católica del Maule 2024**.  
+Apasionado por desarrollo de software y ciberseguridad.
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Educación
 
-# create a new project in my-app
-npx sv create my-app
-```
+- **Universidad Católica del Maule** (2019-2024)  
+  Ingeniería Civil Informática
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 💼 Experiencia
 
-```sh
-npm run dev
+### Haulmer – Desarrollador equipo Documentos Electrónicos
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+_Curicó, Chile | Enero 2024 – Marzo 2024 (Práctica profesional)_
 
-## Building
+- Mantenimiento y mejora de backends en **Laravel** y **Angular**, optimizando procesos de documentos electrónicos.
+- Desarrollo de **API en Laravel con GraphQL** e integración en frontend.
+- Corrección de bugs y optimización en bases de datos **SQL**.
+- Uso de **Git, Docker y Azure** para control de versiones y despliegues.
 
-To create a production version of your app:
+---
 
-```sh
-npm run build
-```
+## 🚀 Proyectos
 
-You can preview the production build with `npm run preview`.
+---
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## 📫 Contacto
+
+- **Email:** diegonurr@hotmail.com
+- **LinkedIn:** [linkedin.com/in/diegonurr](https://www.linkedin.com/in/diegonurr/)
+- **GitHub:** [github.com/diegoGUrra](https://github.com/diegoGUrra)
