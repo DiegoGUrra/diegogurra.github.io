@@ -16,7 +16,8 @@
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
-		"@lucide/svelte": "^0.542.0",
+		"@internationalized/date": "^3.9.0",
+		"@lucide/svelte": "^0.515.0",
 		"@skeletonlabs/skeleton": "^3.2.0",
 		"@skeletonlabs/skeleton-svelte": "^1.5.1",
 		"@sveltejs/adapter-static": "^3.0.8",
@@ -26,6 +27,7 @@
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
 		"autoprefixer": "^10.4.21",
+		"bits-ui": "^2.9.6",
 		"clsx": "^2.1.1",
 		"eslint": "^9.18.0",
 		"eslint-config-prettier": "^10.0.1",
@@ -46,6 +48,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"@humanspeak/svelte-markdown": "^0.8.11",
 		"lucide-svelte": "^0.542.0"
 	}
 }
