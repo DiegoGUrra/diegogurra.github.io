@@ -32,8 +32,8 @@
       {tipo: "Github", val: "github.com/DiegoGUrra", link: "https://github.com/DiegoGUrra"},
       {tipo: "Linkedin", val:"diegonurr", link:"https://www.linkedin.com/in/diegonurr/"}
     ],
-    portafolio: [{nombre:"Hola",
-    resumen: "resumido",
+    portafolio: [{nombre:"Acceso no autorizado mediante phishing y keylogger",
+    resumen: "Phishing y keylogger comprometieron una cuenta, permitiendo extracción de datos y acceso remoto vía Metasploit.",
     habilidades: ["Kali Linux","Metasploit","Python"],
     md:
       `
