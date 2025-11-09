@@ -1,5 +1,5 @@
 <script lang="ts" module>
-	import { cn, type WithElementRef } from "$lib/utils.js";
+	import { cn, type WithElementRef } from "@/lib/utils.js";
 	import type { HTMLAnchorAttributes, HTMLButtonAttributes } from "svelte/elements";
 	import { type VariantProps, tv } from "tailwind-variants";
 
@@ -21,6 +21,8 @@
 				sm: "h-8 gap-1.5 rounded-md px-3 has-[>svg]:px-2.5",
 				lg: "h-10 rounded-md px-6 has-[>svg]:px-4",
 				icon: "size-9",
+				"icon-sm": "size-8",
+				"icon-lg": "size-10",
 			},
 		},
 		defaultVariants: {

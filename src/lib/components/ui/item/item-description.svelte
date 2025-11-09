@@ -1,6 +1,6 @@
 <script lang="ts">
-	import type { HTMLAttributes } from "svelte/elements";
 	import { cn, type WithElementRef } from "@/lib/utils.js";
+	import type { HTMLAttributes } from "svelte/elements";
 
 	let {
 		ref = $bindable(null),
@@ -12,8 +12,12 @@
 
 <p
 	bind:this={ref}
-	data-slot="card-description"
-	class={cn("text-muted-foreground text-sm", className)}
+	data-slot="item-description"
+	class={cn(
+		"text-muted-foreground line-clamp-2 text-balance text-sm font-normal leading-normal",
+		"[&>a:hover]:text-primary [&>a]:underline [&>a]:underline-offset-4",
+		className
+	)}
 	{...restProps}
 >
 	{@render children?.()}
