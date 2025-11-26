@@ -37,6 +37,12 @@ export const bio = {
     resumen: "Configuración de Firewall ASA y VPN Site-to-Site utilizando Cisco Packet Tracer",
     habilidades: ["Firewall ASA", "OSPF", "Hardening", "Telnet", "VPN Site-to-Site"],
     id: "firewall_y_vpn"
+  },
+  {
+    nombre: "Servidor FTP básico con sockets en Python",
+    resumen: "Implementación de un servidor y cliente FTP con soporte para múltiples clientes mediante threads, consola administrativa y transferencia binaria por sockets.",
+    habilidades: ["Python", "Sockets", "Threading", "Redes"],
+    id: "ftp_server"
   }
   ]
 }

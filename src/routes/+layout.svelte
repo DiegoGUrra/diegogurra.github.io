@@ -15,7 +15,7 @@
 <ModeWatcher defaultMode="dark" />
 
 <div
-	class="flex min-h-screen w-screen flex-col justify-between gap-2 overflow-x-hidden overflow-y-auto"
+	class="flex min-h-screen w-full flex-col justify-between gap-2 overflow-x-hidden overflow-y-auto"
 >
 	<Navbar></Navbar>
 	<main class="flex-1 p-2">

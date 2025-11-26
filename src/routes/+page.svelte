@@ -60,11 +60,13 @@
 
 <section id="proyectos" class="p-2 sm:p-6">
 	<h2 class="p-6 text-2xl font-bold text-foreground sm:text-5xl">Proyectos</h2>
-	<div class="item-center flex flex-col justify-center gap-6 sm:flex-row sm:justify-center">
+	<div
+		class="item-center flex flex-col flex-nowrap justify-center gap-6 md:grid md:grid-cols-2 md:justify-center lg:grid-cols-3"
+	>
 		{#each bio.portafolio as port (port.id)}
 			<Card.Root class="max-w-200 shadow-lg">
-				<Card.Header class="flex flex-row">
-					<Card.Title class="flex-3 sm:text-2xl">{port.nombre}</Card.Title>
+				<Card.Header class="">
+					<Card.Title class="sm:text-2xl">{port.nombre}</Card.Title>
 					<Card.Action class="shrink-0">
 						<Button class="text-xs sm:text-lg" variant="link" href="portafolio/{port.id}"
 							>Ver más</Button
