@@ -23,5 +23,7 @@
   "nav_portafolio": "Portafolio",
   "nav_contacto": "Contacto",
   "nav_sobre_mi": "Sobre mí",
-  "btn_ver_mas": "Ver más"
+  "btn_ver_mas": "Ver más",
+  "port_llm_nombre": "Evaluación Automática de Informes con LLM",
+  "port_llm_resumen": "Sistema basado en agentes LLM con RAG para evaluar automáticamente informes universitarios según rúbricas, desarrollado como tesis de pregrado."
 }

@@ -23,5 +23,7 @@
   "nav_portafolio": "Portfolio",
   "nav_contacto": "Contact",
   "nav_sobre_mi": "About me",
-  "btn_ver_mas": "Read more"
+  "btn_ver_mas": "Read more",
+  "port_llm_nombre": "Automatic Essay Scoring with LLM Agents",
+  "port_llm_resumen": "Agent-based LLM system using RAG to automatically grade university reports against rubrics, developed as undergraduate thesis."
 }
