@@ -4,6 +4,6 @@
 	let { data } = $props();
 </script>
 
-<article class="prose max-w-full pl-2 text-left sm:text-2xl dark:prose-invert">
+<article class="mx-auto prose prose-sm max-w-2xl px-4 py-2 sm:prose-base dark:prose-invert">
 	<SvelteMarkdown source={data.content} />
 </article>

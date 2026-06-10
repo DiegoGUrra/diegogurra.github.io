@@ -1,0 +1,17 @@
+[
+  {
+    "tipo": "Email",
+    "val": "diegonurr@hotmail.com",
+    "link": "mailto:diegonurr@hotmail.com"
+  },
+  {
+    "tipo": "Github",
+    "val": "github.com/DiegoGUrra",
+    "link": "https://github.com/DiegoGUrra"
+  },
+  {
+    "tipo": "Linkedin",
+    "val": "diegonurr",
+    "link": "https://www.linkedin.com/in/diegonurr/"
+  }
+]
